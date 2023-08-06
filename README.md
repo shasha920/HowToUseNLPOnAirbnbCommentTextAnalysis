@@ -1,6 +1,8 @@
 # How to use NLP on San Francisco Airbnb comment text analysis
 
+
 *Team Member: Hua Yang, Md Omar Obaid, Arielle Williams, Lan Huang*<br>
+
 
 *Introduction*<br>
 
