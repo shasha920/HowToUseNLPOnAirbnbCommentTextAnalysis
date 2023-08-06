@@ -1,4 +1,4 @@
-# How to use NLP on San Francisco Airbnb comment text analysis
+# NLP for San Francisco Airbnb User Comments Analysis
 
 
 *Team Member: Hua Yang, Md Omar Obaid, Arielle Williams, Lan Huang*<br>
