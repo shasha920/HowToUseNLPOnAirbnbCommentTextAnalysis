@@ -17,9 +17,9 @@
 
 *Additionally, it empowers potential guests to make well-informed decisions and set realistic expectations for their Airbnb experience.*<br>
 
-*Data Source: To gather the necessary data, we have sourced our dataset from insideAirbnb.com. (Inside Airbnb - Adding Data to the Debate, 2023)[5]. Our observation sample concentrates on the city of San Francisco for three main reasons. Firstly, San Francisco ranks third among the cities with the highest median house prices, making it a lucrative market for short-term rentals. (10 Most Expensive Cities In The US, 2023)[1]. Secondly, it is among the top ten most visited cities in the US, indicating a high demand for accommodations (Start Your 2023 Domestic Travel From These Most Visited Cities In The US, 2023)[8]. Lastly, San Francisco is ranked fifth among the happiest cities (The Happiest Cities in America Are in California, According to a New Study—See Where Your Ranks on the List, 2023)[9]. *<br>
+*Data Source: To gather the necessary data, we have sourced our dataset from insideAirbnb.com. (Inside Airbnb - Adding Data to the Debate, 2023)[5]. Our observation sample concentrates on the city of San Francisco for three main reasons. Firstly, San Francisco ranks third among the cities with the highest median house prices, making it a lucrative market for short-term rentals. (10 Most Expensive Cities In The US, 2023)[1]. Secondly, it is among the top ten most visited cities in the US, indicating a high demand for accommodations (Start Your 2023 Domestic Travel From These Most Visited Cities In The US, 2023)[8]. Lastly, San Francisco is ranked fifth among the happiest cities (The Happiest Cities in America Are in California, According to a New Study—See Where Your Ranks on the List, 2023)[9].*<br>
 
-*Based on these remarkable attributes and the multitude of compliments this city receives, we have selected San Francisco as our focal point for analysis. *<br>
+*Based on these remarkable attributes and the multitude of compliments this city receives, we have selected San Francisco as our focal point for analysis.*<br>
 
 *For the sake of timeliness, we have selected customer reviews from the year 2022. These reviews encompass 4,286 listings, totaling 70,720 individual reviews.*<br>
 
@@ -88,7 +88,6 @@
 *Conclusion*<br>
 
 *The analysis of Airbnb comments in San Francisco during 2021 revealed valuable insights into the overall customer experiences. Most customers expressed positive sentiments, demonstrating satisfaction with their accommodations and appreciation for the hosts' hospitality. However, the project also identified areas for improvement, as some negative comments highlighted specific concerns that need attention. Hosts can utilize this constructive feedback to make targeted enhancements, enhancing the guest experience and fostering a positive reputation.*<br>
-
  
 *References*<br>
 
